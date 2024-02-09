@@ -17,3 +17,20 @@ Transform texts into **artistic codes** with the 🌟 *Art Decoder/Encoder*. A s
 - **👌 User-Friendly**: An intuitive interface that's a breeze to navigate.
 
 🎉 Enjoy your journey through the art of text transformation with the **Art Decoder/Encoder**! 🎨
+
+Example: 
+
+- Paste the following into textbox for decoding:
+
+[22  ]/^--^\     /^--^\     /^--^\
+[22  ]\[4 _]/     \[4 _]/     \[4 _]/
+[21  ]/[6  ]\   /[6  ]\   /[6  ]\
+[20  ]|[8  ]| |[8  ]| |[8  ]|
+[21  ]\__  __/   \__  __/   \__  __/
+[12 |^]\ \[3 ^|]^/ /[4 ^|]^\ \[12 ^|]
+[12 | ]|\ \[2 | ]|/ /[5 | ]|\ \[11 | ]|
+[12 | ]|/ /[2 | ]|\ \[5 | ]|/ /[11 | ]|
+[12 | ]|\/[3  |] \/[5 | ]|\/[12  |]
+[73 #]
+[36 | ]|
+[36 | ]|
